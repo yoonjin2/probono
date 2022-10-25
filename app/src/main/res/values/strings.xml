@@ -8,4 +8,5 @@
     <string name="exit_on_arrived">도착시 앱 종료</string>
     <string name="execute">execute</string>
     <string name="destination">목적지 명</string>
+    <string name="hint">hint</string>
 </resources>
